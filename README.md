@@ -1,4 +1,4 @@
-# Hi, I'm Bala Sateesh Parvaini 👋
+# Hi, I'm Bala Sateesh Parvatini 👋
 
 **Staff Engineer | Full Stack + DevOps**  
 **Email**: [bala.satish@gmail.com](mailto:bala.satish@gmail.com)  
@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm a Full Stack Engineer with DevOps expertise an
 
 ## 📈 GitHub Stats
 
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasatishp&show_icons=true&theme=radical)
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasateesh&show_icons=true&theme=radical)
 
 ---
 
