@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm a Full Stack Engineer with DevOps expertise an
 
 ## 📈 GitHub Stats
 
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?balasatishp=balasatishp&show_icons=true&theme=radical)
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasatishp&show_icons=true&theme=radical)
 
 ---
 
